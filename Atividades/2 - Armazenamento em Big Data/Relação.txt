@@ -1,0 +1,29 @@
+Volume: O modelo relacional é mais adequado para volumes de dados moderados a pequenos.
+
+- Prós: O modelo relacional é eficiente no gerenciamento de volumes de dados moderados, garantindo integridade e consistência dos dados.
+
+- Contras: Escalar um banco de dados relacional para lidar com grandes volumes de dados pode ser caro e complexo.
+
+Variedade: O modelo relacional lida bem com dados estruturados e semi-estruturados, mas não é a escolha ideal para dados não estruturados.
+
+- Prós: É altamente adequado para armazenar e consultar dados com estruturas bem definidas.
+
+- Contras: Dados não estruturados, como texto livre ou dados de mídia social, podem ser difíceis de armazenar e consultar em um banco de dados relacional.
+
+Veracidade: O modelo relacional é bom para garantir a integridade e a consistência dos dados, mas pode não ser adequado para lidar com dados que têm uma alta taxa de incerteza ou imprecisão.
+
+- Prós: Garante a consistência dos dados e permite a aplicação de restrições de integridade.
+
+- Contras: Não é tão flexível para lidar com dados que podem não ser estritamente precisos ou verificáveis.
+
+Valor: O modelo relacional é adequado para sistemas que requerem análises complexas e relatórios, o que pode gerar valor a partir dos dados.
+
+- Prós: É eficaz para analises de dados que podem levar a insights valiosos.
+
+- Contras: A estrutura rígida do modelo relacional pode dificultar a adaptação a novas fontes de dados ou a rápida mudança nas necessidades analíticas.
+
+Velocidade: O modelo relacional é geralmente mais lento para consultas complexas em comparação com bancos de dados NoSQL e sistemas distribuídos projetados para alta velocidade.
+
+- Prós: Para consultas simples e operações transacionais, o modelo relacional é rápido e eficiente.
+
+- Contras: Consultas complexas podem levar mais tempo para serem executadas em um banco de dados relacional.

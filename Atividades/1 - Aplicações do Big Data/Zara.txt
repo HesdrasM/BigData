@@ -1,0 +1,19 @@
+Zara: Empresa privada do setor fashion 
+
+ 
+
+Problema: Desenvolver peças de acordo com as tendências do momento e gostos de seus clientes. 
+
+ 
+
+Tendo em vista esse problema, a Zara utilizou-se da big data para obter informações sobre quais os artigos mais vendidos, peças desenvolvidas aos clientes, feedback de compradores e análise sobre quais as tendências do mercado. 
+
+Usando um sistema sofisticado orientado para a tecnologia, analistas divulgam as atualizações diárias e usam-nas para pintar uma imagem precisa do que exatamente os clientes da Zara estão exigindo. 
+
+Essa informação é rapidamente traduzida por uma vasta equipe de mais de 300 designers internos em projetos tangíveis que obedecem às tenências de moda, que são recentemente feitos e vendidos a preços acessíveis. E, em 21 dias, a nova peça está disponível no varejo. 
+
+Ganhos: Dessa forma, a Zara consegue ditar a tendência ao invés de esperar que surja alguma, e assim manter a empresa liderando o ranking no desenvolvimento de peças exclusivas e por consequência o ranking de vendas. 
+
+ 
+
+Fonte: https://blog.under.com.br/6-casos-de-sucesso-do-uso-do-big-data-por-empresas
