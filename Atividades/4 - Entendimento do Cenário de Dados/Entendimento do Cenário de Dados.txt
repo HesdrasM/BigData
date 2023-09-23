@@ -1,183 +1,31 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf610
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fswiss\fcharset0 Helvetica-Bold;\f2\fswiss\fcharset0 ArialMT;
-}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red255\green255\blue255;\red37\green63\blue131;
-\red191\green191\blue191;\red255\green255\blue255;\red255\green255\blue255;\red166\green54\blue20;\red42\green49\blue64;
-}
-{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c100000\c100000\c100000;\cssrgb\c18851\c32755\c58705;
-\csgray\c79525;\csgray\c100000;\cssrgb\c100000\c100000\c100000;\cssrgb\c71765\c28627\c9804;\cssrgb\c21569\c25490\c31765;
-}
-{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid1\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid1}
-{\list\listtemplateid2\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat2\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid101\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid2}
-{\list\listtemplateid3\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid201\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid3}
-{\list\listtemplateid4\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat4\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid301\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid4}}
-{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}}
-\paperw11900\paperh16840\margl1440\margr1440\vieww17020\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720\sl324\qj\partightenfactor0
+Selecione uma base de dados Estruturada em um dos Sites Repositórios indicados a seguir.
 
-\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Selecione uma base de dados 
-\f1\b \AppleTypeServices\AppleTypeServicesF65539 Estruturada
-\f0\b0 \AppleTypeServices\AppleTypeServicesF65539  em um dos Sites
-\f1\b \AppleTypeServices\AppleTypeServicesF65539  Reposit\'f3rios 
-\f0\b0 \AppleTypeServices\AppleTypeServicesF65539 indicados a seguir.\AppleTypeServices \'a0
-\f2\fs24 \cb1 \
-\pard\pardeftab720\sl324\qj\partightenfactor0
+Definir:
 
-\f1\b\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cf2 \cb3 Definir:
-\f0\b0 \AppleTypeServices \'a0
-\f2\fs24 \cb1 \
-\pard\tx220\tx720\pardeftab720\li720\fi-720\sl324\qj\partightenfactor0
-\ls1\ilvl0
-\f1\b\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cf2 \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	1.	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Cen\'e1rio de Dados
-\f0\b0 \AppleTypeServices\AppleTypeServicesF65539  (Sa\'fade, Educa\'e7\'e3o, Transporte, Seguran\'e7a...)\AppleTypeServices \'a0\
-\ls1\ilvl0\cb1 \uc0\u8232 - Educa\'e7\'e3o\
-\
-\pard\tx220\tx720\pardeftab720\li720\fi-720\sl324\qj\partightenfactor0
-\ls2\ilvl0
-\f1\b \AppleTypeServices\AppleTypeServicesF65539 \cf2 \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	2.	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Um problema ou uma pergunta/hip\'f3tese relevantes que pode ser respondida a partir dos dados
-\f0\b0 \AppleTypeServices \'a0\cb1 \uc0\u8232 \
-\pard\pardeftab720\sl324\qj\partightenfactor0
-\AppleTypeServices\AppleTypeServicesF65539 \cf2 \cb3 \'a0\'a0\'a0\'a0\'a0\'a0\'a0 Ex: "A partir dos dados podemos saber quais bairros registram maior n\'famero de multas por excesso de velocidade"\AppleTypeServices \'a0\
-\
-	- A partir dos dados podemos saber quais 
-\b \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 UF\'92s
-\b0 \cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2  e quais 
-\b \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 IES
-\b0 \cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2  tem os maiores e menores conceitos  
-\b \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 Enade
-\b0 \cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 .\
+1. Cenário de Dados (Saúde, Educação, Transporte, Segurança...)
 
-\f2\fs24 \cb1 \
-\pard\tx220\tx720\pardeftab720\li720\fi-720\sl324\qj\partightenfactor0
-\ls3\ilvl0
-\f1\b\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cf2 \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	3.	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Tipo e escala das vari\'e1veis
-\f0\b0 \AppleTypeServices \'a0\cb1 \
-\pard\tx566\pardeftab720\sl324\qj\partightenfactor0
-\cf2 \
+2.
 
-\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrr\brdrnil 
-\clvertalc \clcbpat4 \clheight404 \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx1728
-\clvertalc \clcbpat4 \clheight404 \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx3456
-\clvertalc \clcbpat4 \clheight404 \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx5184
-\clvertalc \clcbpat4 \clheight404 \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx6912
-\clvertalc \clcbpat4 \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx8640
-\pard\intbl\itap1\tx566\pardeftab720\sl324\partightenfactor0
-\cf3 \outl0\strokewidth0 Sigla UF\cf2 \outl0\strokewidth0 \strokec2 \cell 
-\pard\intbl\itap1\tx566\pardeftab720\sl324\partightenfactor0
-\cf6 \outl0\strokewidth0 C\'f3digo da IES\cf7 \outl0\strokewidth0 \strokec2 \cell 
-\pard\intbl\itap1\tx566\pardeftab720\sl324\partightenfactor0
-\cf3 \outl0\strokewidth0 Sigla da IES\cf7 \outl0\strokewidth0 \strokec2 \cell 
-\pard\intbl\itap1\tx566\pardeftab720\sl324\partightenfactor0
-\cf3 \outl0\strokewidth0 Nome das IES\cf2 \outl0\strokewidth0 \strokec2 \cell 
-\pard\intbl\itap1\tx566\pardeftab720\sl324\partightenfactor0
-\cf3 \outl0\strokewidth0 Conceito Enade\cf2 \outl0\strokewidth0 \strokec2 \cell \row
+3. - Educação
 
-\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
-\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx1728
-\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx3456
-\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx5184
-\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx6912
-\clvertalc \clshdrawnil \clbrdrt\brdrs\brdrw20\brdrcf5 \clbrdrl\brdrs\brdrw20\brdrcf5 \clbrdrb\brdrs\brdrw20\brdrcf5 \clbrdrr\brdrs\brdrw20\brdrcf5 \clpadl100 \clpadr100 \gaph\cellx8640
-\pard\intbl\itap1\tx566\pardeftab720\sl324\partightenfactor0
-\cf2 Qualitativa Nominal\cell 
-\pard\intbl\itap1\tx566\pardeftab720\sl324\partightenfactor0
-\cf2 Quantitativa Discreta\cell 
-\pard\intbl\itap1\tx566\pardeftab720\sl324\partightenfactor0
-\cf2 Qualitativa Nominal\cell 
-\pard\intbl\itap1\tx566\pardeftab720\sl324\partightenfactor0
-\cf2 Qualitativa Nomial\cell 
-\pard\intbl\itap1\tx566\pardeftab720\sl324\partightenfactor0
-\cf2 Quantitativa Discreta\cell \lastrow\row
-\pard\pardeftab720\sl324\qj\partightenfactor0
+4.
 
-\f1\b \AppleTypeServices\AppleTypeServicesF65539 \cf2 \cb3 \'a0\'a0\'a0\'a0\'a0 
-\f0\b0 \AppleTypeServices\AppleTypeServicesF65539 Categoriza\'e7\'e3o
-\f1\b \AppleTypeServices\AppleTypeServicesF65539 : 
-\f0\b0\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 Qualitativo (ordinal, nominal), Quantitativo (cont\'ednuo, discreto)\AppleTypeServices \'a0\
-\pard\pardeftab720\sl324\qj\partightenfactor0
+5. Um problema ou uma pergunta/hipótese relevantes que pode ser respondida a partir dos dados
 
-\f2\fs24 \cf2 \cb1 \
-\pard\tx220\tx720\pardeftab720\li720\fi-720\sl306\qj\partightenfactor0
-\ls4\ilvl0
-\f1\b\fs29\fsmilli14667 \AppleTypeServices\AppleTypeServicesF65539 \cf2 \cb3 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	4.	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Link para a base de dados 
-\f0\b0 \AppleTypeServices\AppleTypeServicesF65539 (N\'e3o precisa anexar a base de dados, s\'f3 o link de acesso)\AppleTypeServices \'a0\cb1 \uc0\u8232 \
-\ls4\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 		{\field{\*\fldinst{HYPERLINK "https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/indicadores-de-qualidade-da-educacao-superior"}}{\fldrslt https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/indicadores-de-qualidade-da-educacao-superior}}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 \
-\pard\pardeftab720\sl366\partightenfactor0
-\cf2 \cb3 \'a0
-\f2\fs24 \cb1 \
-\pard\pardeftab720\sl324\qj\partightenfactor0
+Ex: "A partir dos dados podemos saber quais bairros registram maior número de multas por excesso de velocidade"
 
-\f1\b\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cf8 \cb3 \strokec8 Reposit\'f3rios de dados p\'fablicos (links):\'a0
-\f0\b0 \AppleTypeServices \'a0
-\f2\fs24 \cf2 \cb1 \strokec2 \
-\pard\pardeftab720\li360\fi-360\sl324\qj\partightenfactor0
+- A partir dos dados podemos saber quais UF’s e quais IES tem os maiores e menores conceitos Enade.
 
-\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cf2 \cb3 \'95{\field{\*\fldinst{HYPERLINK "https://datasus.saude.gov.br/"}}{\fldrslt 
-\f1\b \AppleTypeServices\AppleTypeServicesF65539 \cf9 \ul \ulc9 \strokec9 DataSUS:}}
-\f1\b \AppleTypeServices\AppleTypeServicesF65539 \cf9 \strokec9  
-\f0\b0 \AppleTypeServices\AppleTypeServicesF65539 Dados p\'fablico no cen\'e1rio nacional sobre sa\'fade.\AppleTypeServices \'a0
-\f2\fs24 \cf2 \cb1 \strokec2 \
+6. Tipo e escala das variáveis
 
-\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'95{\field{\*\fldinst{HYPERLINK "https://bdmep.inmet.gov.br/"}}{\fldrslt 
-\f1\b \AppleTypeServices\AppleTypeServicesF65539 \cf9 \ul \ulc9 \strokec9 INMET}}
-\f0 \AppleTypeServices\AppleTypeServicesF65539 \cf9 \strokec9 (Instituto Nacional de Meteorologia)
-\f1\b \AppleTypeServices\AppleTypeServicesF65539 : 
-\f0\b0 \AppleTypeServices\AppleTypeServicesF65539 Dados meteorol\'f3gicos no cen\'e1rio nacional.\AppleTypeServices \'a0
-\f2\fs24 \cf2 \cb1 \strokec2 \
+Sigla UF Código da IES Sigla da IES Nome das IES Conceito Enade
 
-\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'95{\field{\*\fldinst{HYPERLINK "https://data.gov/"}}{\fldrslt 
-\f1\b \AppleTypeServices\AppleTypeServicesF65539 \cf9 \ul \ulc9 \strokec9 Data.gov}}
-\f0 \AppleTypeServices\AppleTypeServicesF65539 \cf9 \strokec9 : O site do governo dos EUA que oferece acesso a uma ampla variedade de conjuntos de dados p\'fablicos.\AppleTypeServices \'a0
-\f2\fs24 \cf2 \cb1 \strokec2 \
+Qualitativa
 
-\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'95{\field{\*\fldinst{HYPERLINK "https://dados.gov.br/home"}}{\fldrslt 
-\f1\b \AppleTypeServices\AppleTypeServicesF65539 \cf9 \ul \ulc9 \strokec9 Dados.gov}}
-\f0 \AppleTypeServices\AppleTypeServicesF65539 \cf9 \strokec9 : O site fornece acesso a v\'e1rios conjuntos de dados p\'fablicos do cen\'e1rio nacional.\AppleTypeServices \'a0
-\f2\fs24 \cf2 \cb1 \strokec2 \
+Nomial Quantitativa Discreta Qualitativa Nomial Qualitativa Nomial Quantitativa Discreta
 
-\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'95{\field{\*\fldinst{HYPERLINK "https://www.ncei.noaa.gov/cdo-web/"}}{\fldrslt 
-\f1\b \AppleTypeServices\AppleTypeServicesF65539 \cf9 \ul \ulc9 \strokec9 NOAA}}
-\f0 \AppleTypeServices\AppleTypeServicesF65539 \cf9 \strokec9  (National Oceanic and Atmospheric Administration): Oferece dados meteorol\'f3gicos e clim\'e1ticos globais.\AppleTypeServices \'a0
-\f2\fs24 \cf2 \cb1 \strokec2 \
+Categorização: Qualitativo (ordinal, nominal), Quantitativo (contínuo, discreto)
 
-\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'95{\field{\*\fldinst{HYPERLINK "https://www.usgs.gov/programs/earthquake-hazards"}}{\fldrslt 
-\f1\b \AppleTypeServices\AppleTypeServicesF65539 \cf9 \ul \ulc9 \strokec9 USGS Earthquake Data}}
-\f0 \AppleTypeServices\AppleTypeServicesF65539 \cf9 \strokec9 : Fornece informa\'e7\'f5es sobre terremotos em todo o mundo.\AppleTypeServices \'a0
-\f2\fs24 \cf2 \cb1 \strokec2 \
+7. Link para a base de dados (Não precisa anexar a base de dados, só o link de acesso) 8. https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/indicadores-de-qualidade-da-educacao-superior
 
-\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'95
-\f1\b \AppleTypeServices\AppleTypeServicesF65539 \cf9 \strokec9 CDC 
-\f0\b0 \AppleTypeServices\AppleTypeServicesF65539 ({\field{\*\fldinst{HYPERLINK "https://www.cdc.gov/index.htm"}}{\fldrslt \ul Centers for Disease Control and Prevention}}): Fornece dados de sa\'fade p\'fablica dos EUA.\AppleTypeServices \'a0
-\f2\fs24 \cf2 \cb1 \strokec2 \
-
-\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'95
-\f1\b \AppleTypeServices\AppleTypeServicesF65539 \cf9 \strokec9 WHO
-\f0\b0 \AppleTypeServices\AppleTypeServicesF65539  ({\field{\*\fldinst{HYPERLINK "https://www.who.int/"}}{\fldrslt \ul World Health Organization}}): Oferece dados de sa\'fade global.\AppleTypeServices \'a0
-\f2\fs24 \cf2 \cb1 \strokec2 \
-
-\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'95
-\f1\b \AppleTypeServices\AppleTypeServicesF65539 \cf9 \strokec9 NCES
-\f0\b0 \AppleTypeServices\AppleTypeServicesF65539  ({\field{\*\fldinst{HYPERLINK "https://nces.ed.gov/"}}{\fldrslt \ul National Center for Education Statistics}}): Fornece dados sobre educa\'e7\'e3o nos EUA.\AppleTypeServices \'a0
-\f2\fs24 \cf2 \cb1 \strokec2 \
-
-\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'95{\field{\*\fldinst{HYPERLINK "https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos"}}{\fldrslt 
-\f1\b \AppleTypeServices\AppleTypeServicesF65539 \cf9 \ul \ulc9 \strokec9 INEP}}
-\f0 \AppleTypeServices\AppleTypeServicesF65539 \cf9 \strokec9 : Fornece dados da educa\'e7\'e3o no cen\'e1rio nacional.\AppleTypeServices \'a0
-\f2\fs24 \cf2 \cb1 \strokec2 \
-
-\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cb3 \'95{\field{\*\fldinst{HYPERLINK "http://dados.recife.pe.gov.br/"}}{\fldrslt 
-\f1\b \AppleTypeServices\AppleTypeServicesF65539 \cf9 \ul \ulc9 \strokec9 Dados Recife}}
-\f1\b \AppleTypeServices\AppleTypeServicesF65539 \cf9 \strokec9  
-\f0\b0 \AppleTypeServices\AppleTypeServicesF65539 (dados p\'fablicos da cidade do Recife).\AppleTypeServices \'a0
-\f2\fs24 \cf2 \cb1 \strokec2 \
-}
+Repositórios de dados públicos (links): •DataSUS: Dados público no cenário nacional sobre saúde. •INMET(Instituto Nacional de Meteorologia): Dados meteorológicos no cenário nacional. •Data.gov: O site do governo dos EUA que oferece acesso a uma ampla variedade de conjuntos de dados públicos. •Dados.gov: O site fornece acesso a vários conjuntos de dados públicos do cenário nacional. •NOAA (National Oceanic and Atmospheric Administration): Oferece dados meteorológicos e climáticos globais. •USGS Earthquake Data: Fornece informações sobre terremotos em todo o mundo. •CDC (Centers for Disease Control and Prevention): Fornece dados de saúde pública dos EUA. •WHO (World Health Organization): Oferece dados de saúde global. •NCES (National Center for Education Statistics): Fornece dados sobre educação nos EUA. •INEP: Fornece dados da educação no cenário nacional. •Dados Recife (dados públicos da cidade do Recife)
